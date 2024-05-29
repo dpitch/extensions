@@ -1,8 +1,8 @@
-# Spreadsheet Layout for Directus
+# Spreadsheet Layout
 
-A spreadsheet layout that allows you to edit item fields directly inline, just like in a spreadsheet.
+Present collections in a spreadsheet layout that allows you to edit item fields directly inline
 
-![](https://raw.githubusercontent.com/directus-labs/extension-spreadsheet-layout/main/docs/preview.png)
+![The spreadsheet layout in the Directus Studio showing a collection of food related items and their attributes](https://github.com/directus-labs/extensions/blob/main/packages/spreadsheet-layout/docs/preview.png?raw=true)
 
 ## Installation & Setup
 

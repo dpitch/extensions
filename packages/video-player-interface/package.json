@@ -1,5 +1,5 @@
 {
-    "name": "directus-extension-video-interface",
+    "name": "@directus-labs/video-player-interface",
     "version": "1.0.0",
     "description": "An interface to select and display a video from YouTube, Vimeo or a local file from Directus",
     "license": "MIT",
@@ -10,6 +10,12 @@
             "email": "dev@formfcw.com"
         }
     ],
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/directus-labs/extensions.git",
+        "directory": "packages/video-player-interface"
+    },
+    "homepage": "https://github.com/directus-labs/extensions/tree/main/packages/video-player-interface#readme",
     "icon": "smart_display",
     "keywords": [
         "vimeo",
