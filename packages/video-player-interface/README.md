@@ -2,7 +2,7 @@
 
 Select and display a video from YouTube, Vimeo or a local file from Directus within the item editor
 
-![The video interface, showing an open service drop-down with the options Directus, YouTube, and Vimeo, with YouTube selected, a video ID in the nearby text field, and a video player below the field.](https://github.com/directus-labs/extensions/blob/main/packages/video-player-interface/docs/preview.png?raw=true)
+![The video interface, showing an open service drop-down with the options Directus, YouTube, and Vimeo, with YouTube selected, a video ID in the nearby text field, and a video player below the field.](https://raw.githubusercontent.com/directus-labs/extensions/main/packages/video-player-interface/docs/preview.png)
 
 ## Installation & Setup
 

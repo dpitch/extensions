@@ -2,7 +2,7 @@
 
 Present collections in a spreadsheet layout that allows you to edit item fields directly inline
 
-![The spreadsheet layout in the Directus Studio showing a collection of food related items and their attributes](https://github.com/directus-labs/extensions/blob/main/packages/spreadsheet-layout/docs/preview.png?raw=true)
+![The spreadsheet layout in the Directus Studio showing a collection of food related items and their attributes](https://raw.githubusercontent.com/directus-labs/extensions/main/packages/spreadsheet-layout/docs/preview.png)
 
 ## Installation & Setup
 

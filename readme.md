@@ -27,9 +27,9 @@ Some of the published extensions may not be compatible with the sandbox requirem
 | [AI Translator](//github.com/directus-labs/extensions/tree/main/packages/ai-translator-operation) | Operation | 1.0.2 | ✅ |
 | [AI Writer](//github.com/directus-labs/extensions/tree/main/packages/ai-writer-operation) | Operation | 1.2.0 | ✅ |
 | [Meter Component](//github.com/directus-labs/extensions/tree/main/packages/meter-component) | Bundle | 1.0.2 | N/A |
-| [Spreadsheet](//github.com/directus-labs/extensions/tree/main/packages/spreadsheet-layout) | Layout | 1.0.0 | N/A |
+| [Spreadsheet](//github.com/directus-labs/extensions/tree/main/packages/spreadsheet-layout) | Layout | 1.0.1 | N/A |
 | [Steps Component](//github.com/directus-labs/extensions/tree/main/packages/steps-component) | Bundle | 1.0.0 | N/A |
-| [Video Player](//github.com/directus-labs/extensions/tree/main/packages/video-player-interface) | Interface | 1.0.0 | N/A |
+| [Video Player](//github.com/directus-labs/extensions/tree/main/packages/video-player-interface) | Interface | 1.0.1 | N/A |
 
 <!-- Tentatively Upcoming - no promises!
 
